@@ -1,0 +1,4 @@
+Gracias por registrarte en PulpoAPP. Por favor sigue el siguiente link para actvar tu cuenta.
+{{ confirm_url }}
+
+Pulposaludos!
